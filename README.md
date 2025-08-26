@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**Joaovacosta/Joaovacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Bem vindo ao meu GitHub! 👋
+Meu nome é João Vitor Alves da Costa, tenho 16 anos e autalmente estou no 2º ano do Ensino médio no **SESI**, além de também estar cursando Desenvolvimento de Sistemas no **SENAI**. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
