@@ -12,7 +12,7 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 2. Banco de dados 🎲
 3. Linguagem de Marcação </>
 ### 🧾Se interessou? Entre em contato!
-[Meu Linkedin](www.linkedin.com/in/joão-vitor-alves-160691356)
-[Meu instagram](instagram.com/@joaov10costa)
-[Meu e-mail](joaova.costa@hotmail.com)
+1. [Meu Linkedin](www.linkedin.com/in/joão-vitor-alves-160691356)
+2. [Meu instagram](instagram.com/joaov10costa)
+3. Meu e-mail: joaova.costa@hotmail.com
 
