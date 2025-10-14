@@ -4,7 +4,7 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 ## Minhas estatistícas 📊📈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovacosta&show_icons=true&theme=radical)
 
-![Progress](https://img.shields.io/badge/Progresso-75%25-brightgreen)
+
 
 ## Minhas habilidades e conhecimentos 🤹‍♂️
 ### **Linguagens**
