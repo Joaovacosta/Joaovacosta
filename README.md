@@ -4,7 +4,8 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 ## Minhas estatistícas 📊📈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovacosta&show_icons=true&theme=radical)
 
-![License](https://img.shields.io/github/license/Joaovacosta/Joaovacosta)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Minhas habilidades e conhecimentos 🤹‍♂️
 ### **Linguagens**
