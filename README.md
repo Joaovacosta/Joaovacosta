@@ -3,6 +3,7 @@ Meu nome é João Vitor Alves da Costa, tenho 16 anos e atualmente estou no 2º 
 Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notícias, fóruns, etc. Me sinto mais à vontade em Programação Front-end, no qual é a área que desejo trabalhar profissionalmente.
 ## Minhas estatistícas 📊📈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovacosta&show_icons=true&theme=radical)
+
 ![Progress](https://img.shields.io/badge/Progresso-75%25-brightgreen)
 
 ## Minhas habilidades e conhecimentos 🤹‍♂️
