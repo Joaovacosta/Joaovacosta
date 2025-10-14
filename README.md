@@ -8,7 +8,7 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 
 1. Python (Nível básico-intermediário)
 2. HTML (Nível básico-intermediário)
-3. CSS (Nível introdutório, mas buscando aprender)
+3. CSS (Nível básico-intermediário)
 ## **Outras áreas**  
 1. Arquitetura de Redes com IoT 🥅
 2. Sistemas Operacionais 🐧📱
