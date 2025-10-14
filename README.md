@@ -27,4 +27,4 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 3. **Meu discord**: joaov10costa (joaovxz)
 4. **Meu e-mail** **✉**: joaova.costa@hotmail.com
 
-[![Coverage](https://img.shields.io/codecov/c/github/usuario/repositorio.svg)](https://codecov.io/gh/usuario/repositorio)
+[![Coverage](https://img.shields.io/codecov/c/github/Joaovacosta/repositorio.svg)](https://codecov.io/gh/usuario/repositorio)
