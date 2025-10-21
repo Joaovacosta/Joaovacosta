@@ -27,7 +27,7 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 ## Matérias em andamento 📚
 1. Programação Back-End 💻
 2. Banco de dados 🎲
-3. Linguagem de Marcação **</>**
+3. Linguagem de Marcação 🏷️
 ## 🧾Se interessou? Entre em contato!
 1. [Meu Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-160691356/)
 2. [Meu instagram](https://instagram.com/joaov10costa)
