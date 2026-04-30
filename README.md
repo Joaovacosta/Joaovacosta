@@ -8,9 +8,9 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 
 
 ## Minhas habilidades e conhecimentos 🤹‍♂️
-### **Linguagens**
+### **Linguagens e Bibliotecas**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Aplicativos que utilizo 🈸
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![XAMPP](https://img.shields.io/badge/XAMPP-FB503B?style=for-the-badge&logo=xampp&logoColor=white)![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -20,6 +20,7 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 1. Python (Nível básico-intermediário)
 2. HTML (Nível básico-intermediário)
 3. CSS (Nível básico-intermediário)
+4. Dart 
 ## **Outras áreas**  
 1. Arquitetura de Redes com IoT 🥅
 2. Sistemas Operacionais 🐧📱
