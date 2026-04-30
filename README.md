@@ -16,7 +16,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaovacosta&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovacosta&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovacosta&layout=compact&theme=radical&langs_count=8"/>
 
 </div>
 
