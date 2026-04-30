@@ -94,3 +94,5 @@
 <p align="center">
 ✨ Obrigado por visitar meu perfil! Estou sempre em busca de evolução e novos desafios na área da tecnologia.
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
