@@ -1,5 +1,5 @@
 # Bem vindo ao meu GitHub! 👋
-Meu nome é João Vitor Alves da Costa, tenho 16 anos e atualmente estou no 2º ano do Ensino médio no **SESI**, além de também estar cursando Desenvolvimento de Sistemas no **SENAI**. 
+Meu nome é João Vitor Alves da Costa, tenho 17 anos e atualmente estou no 3º ano do Ensino médio no **SESI**, além de também estar cursando Desenvolvimento de Sistemas no **SENAI**, atualmente no 3º Semestre. 
 Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notícias, fóruns, etc. Me sinto mais à vontade em Programação Front-end, no qual é a área que desejo trabalhar profissionalmente.
 ## Minhas estatistícas 📊📈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovacosta&show_icons=true&theme=radical)
@@ -13,10 +13,7 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Aplicativos que utilizo 🈸
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![XAMPP](https://img.shields.io/badge/XAMPP-FB503B?style=for-the-badge&logo=xampp&logoColor=white)![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![XAMPP](https://img.shields.io/badge/XAMPP-FB503B?style=for-the-badge&logo=xampp&logoColor=white)![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 1. Python (Nível básico-intermediário)
 2. HTML (Nível básico-intermediário)
 3. CSS (Nível básico-intermediário)
