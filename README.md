@@ -4,7 +4,7 @@ Gosto muito de tecnologia, sempre buscando me atualizar todos os dias com notíc
 ## Minhas estatistícas 📊📈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovacosta&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovacosta)](https://github.com/Joaovacosta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovacosta)](https://github.com/Joaovacosta/github-readme-statsColor=Black)
 
 
 ## Minhas habilidades e conhecimentos 🤹‍♂️
