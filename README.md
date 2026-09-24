@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
-  Me chamo <strong>João Vitor Alves da Costa</strong>, tenho 17 anos e atualmente estou cursando o <strong>3º ano do Ensino Médio no SESI</strong> e também <strong>Desenvolvimento de Sistemas no SENAI</strong>, estando no 3º semestre.
+  Me chamo <strong>João Vitor Alves da Costa</strong>, tenho 17 anos e atualmente estou cursando o <strong>3º ano do Ensino Médio no SESI</strong> e também <strong>Desenvolvimento de Sistemas no SENAI</strong>, estando no 4º semestre.
 </p>
 
 <p align="center">
